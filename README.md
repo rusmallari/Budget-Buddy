@@ -1,39 +1,68 @@
 # Budget-Buddy
+Budget-Buddy is a personal finance and expense tracking application designed to help young adults manage their money, monitor spending habits, and stay within their budget.
+The app allows users to record transactions, categorize expenses, set budget limits, and visualize spending patterns through charts and reports.
 
- App features:
-Develop features for users to add, edit, and delete expenses.
-Allow users to categorize expenses (e.g., food, transportation, entertainment).
-Implement budget setting and tracking functionality, notifying users when they approach budget limits.
+The goal of this project is to create a simple, intuitive budgeting tool that encourages better financial decision-making and financial awareness.
 
-Visualization:
-Log in screen upon opening the app (maybe)
-After log in the user can immediately add transaction
-Name the transaction - amount - type
-Transaction history tab - this could include charts to provide a visualization of what category the user spends most money on
-Custom tab where a user can set budget limits; purpose of the limit is to alert the user when they’re going above their set limit
+Features
 
-1. Project Planning and Design:
-Define the app's purpose and target audience.
-Provide a basic and easy to use app that helps young adults manage/plan their budget
-Identify key features
-User input expense log/diary, budget setting, monthly reports, spending-over-budget alerts
-UI Design 
-(we can hand draw this in class or something)
+Expense Tracking
+Add new transactions quickly
+Edit or delete existing expenses
+Record transaction name, amount, and category
+Automatically store transaction history
 
-2. Front-End Development:
-Divide the team into front-end developers responsible for creating the user interface.
-2 front end and 2 back end ?
-Develop the UI.
-We could use HTML, CSS, React, UIKit (apple specific), or Vue.js, or Firebase SDK, xcode
-Implement user interactions 
+Expense Categories
+Users can organize expenses into categories such as:
+Food
+Transportation
+Entertainment
+Bills
+Custom categories
+Budget Limits
 
-3. Back-End Development:
-Divide the team into back-end developers responsible for managing data and logic.
-2 front end and 2 back end ?
-platform:
-Firebase, Django, Ruby on Rails, Express
-Implement APIs for communication between the front end and back end.
+Set spending limits for categories
+Receive alerts when approaching budget limits
+Prevent overspending through real-time tracking
 
-4. Database Setup and Management: Firebase
+Transaction History
+
+View a full history of transactions
+Track spending over time
+Analyze past expenses to improve budgeting
+
+Data Visualization
+Charts and graphs showing spending trends
+Visual breakdown of expenses by category
+Helps users quickly identify major spending areas
+
+Application Flow
+
+Login Screen: 
+Users sign in to access their personal budget dashboard.
+Add Transaction:
+Users can immediately log a new expense after logging in.
+Required fields:
+Transaction Name
+Amount
+Category
+Transaction History
+Displays all past transactions
+Provides charts showing spending distribution
+Budget Settings
+Users set spending limits
+Alerts notify users when they approach or exceed limits
+Tech Stack
+
+Front-End
+HTML
+CSS
+React
+
+Back-End
+Express.js / Django / Ruby on Rails (depending on implementation)
+API communication between front-end and back-end
+Database
+Firebase
 
 https://docs.google.com/presentation/d/10sE1NuADzpSXDosfWzfpmYnWHPhYSZzopQbR5IXgQH8/edit#slide=id.p
