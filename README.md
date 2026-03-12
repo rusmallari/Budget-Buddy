@@ -45,12 +45,10 @@ Users can organize expenses into categories such as:
 ## Technologies Used
 
 ### Front-End
+-Swift
 - HTML
 - CSS
 - React
-
-### Back-End
-- Django
 
 ### Database
 - Firebase
