@@ -50,7 +50,7 @@ Users can organize expenses into categories such as:
 - React
 
 ### Back-End
-- Express.js / Django / Ruby on Rails (depending on implementation)
+- Django
 
 ### Database
 - Firebase
