@@ -38,7 +38,7 @@ Users can organize expenses into categories such as:
 ## Application Flow
 - **Login Screen:** Users sign in to access their personal budget dashboard.
 - **Add Transaction:** Users can log a new expense after logging in.
-  - Required fields: Transaction name, amount, and category
+- **Required fields:** Transaction name, amount, and category
 - **Transaction History:** Displays all past transactions and charts showing spending distribution.
 - **Budget Settings:** Users set spending limits and receive alerts when they approach or exceed those limits.
 
